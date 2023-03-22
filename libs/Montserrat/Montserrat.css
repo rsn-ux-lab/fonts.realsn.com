@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 200;
+     src: url('./Montserrat-ExtraLight.woff2') format('woff2'),
+          url('./Montserrat-ExtraLight.woff') format('woff'),
+          url('./Montserrat-ExtraLight.otf') format('opentype');
+          /* url('./Montserrat-ExtraLight.ttf') format('truetype'), */
+     src: local(※), url('./Montserrat-ExtraLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./Montserrat-Light.woff2') format('woff2'),
+       url('./Montserrat-Light.woff') format('woff'),
+       url('./Montserrat-Light.otf') format('opentype');
+       /* url('./Montserrat-Light.ttf') format('truetype'), */
+  src: local(※), url('./Montserrat-Light.woff') format('woff');
+}
+
+@font-face {
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 400;
+     src: url('./Montserrat-Regular.woff2') format('woff2'),
+          url('./Montserrat-Regular.woff') format('woff'),
+          url('./Montserrat-Regular.otf') format('opentype');
+          /* url('./Montserrat-Regular.ttf') format('truetype'), */
+     src: local(※), url('./Montserrat-Regular.woff') format('woff');
+ }
+
+@font-face {
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 500;
+     src: url('./Montserrat-Medium.woff2') format('woff2'),
+          url('./Montserrat-Medium.woff') format('woff'),
+          url('./Montserrat-Medium.otf') format('opentype');
+          /* url('./Montserrat-Medium.ttf') format('truetype'), */
+     src: local(※), url('./Montserrat-Medium.woff') format('woff');
+ }
+
+@font-face {
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 700;
+     src: url('./Montserrat-Bold.woff2') format('woff2'),
+          url('./Montserrat-Bold.woff') format('woff'),
+          url('./Montserrat-Bold.otf') format('opentype');
+          /* url('./Montserrat-Bold.ttf') format('truetype'), */
+     src: local(※), url('./Montserrat-Bold.woff') format('woff');
+ }
